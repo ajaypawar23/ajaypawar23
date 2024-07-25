@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Pawar</h1>
-<h3 align="center">I am pursuing my B.E. in Computer Science & Enggineering degree and working to be successful Ethical Hacker and Bug Bounty Hunter from India.</h3>
+<h3 align="center">I am Completed my B.E. in Computer Science & Enggineering degree and working to be successful Ethical Hacker and Bug Bounty Hunter from India.</h3>
 <img align="center" alt="coding" width="500" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaypawar23&label=Profile%20views&color=0e75b6&style=flat" alt="ajaypawar23" /> </p>
 
